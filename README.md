@@ -14,5 +14,3 @@ text_group_dict_lem2 - список из лематизированных скл
 
 stop_words.txt - список стоп слов
 
-Ссылка на скачивание text_group_dict_lem2: https://www.dropbox.com/s/aancopdq2yy7blh/text_group_dict_lem2
-
